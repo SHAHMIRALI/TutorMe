@@ -33,9 +33,9 @@ We will make a list of all features (in point form) that will be implemented for
 * Order the items from most to least important.
 * Feel free (but not obligated) to specify some/all tasks as user stories.
 
-For this iteration, we will be designing and building front end of our app and also a basic working connection that allows streamer and viewer to chat.
+**Goals:** For this iteration, we will be designing and building front end of our app and also a basic working connection that allows streamer and viewer to chat. 
 
-List of tasks:
+**List of tasks:**
 
 
 
