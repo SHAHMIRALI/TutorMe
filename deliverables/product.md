@@ -44,6 +44,4 @@ Initially we were concerned about resource sharing during the initial conceptual
 
 The topic of target users was discussed in depth during our meetings. The two main focus groups that we were deciding between were the tutors and the students. After evaluating the amount of features that would satisfy a tutor as compared to the amount of features that would satisfy a student, we came to the realization that there exists an overlap in which many features which benefits the students also benefits the tutor and vice versa. In the end, we decided to focus on the student group for the purposes of this project, but we will take into account any modification that could prove to be beneficial to both groups.
 
-
-
-
+Some alternatives that we considered were note-sharing or text-based-chat applications. However, we felt that neither of these options would provide help as quick as speaking with someone else live about the issues you are encountering, using a video platform. Such a platform would also allow for instant clarification on responses sooner than discussions through text, making it easier to work through long problems with others.
