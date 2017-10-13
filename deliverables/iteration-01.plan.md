@@ -65,10 +65,15 @@ We will prioritize tasks that we consider to be fundamental for the functioning 
 List/describe the artifacts you will produce in order to present your project idea.
 
 * Artifacts can be text, code, images, videos, interactive mock-ups and/or any other useful artifact you can think of.
+
 * Make sure to explain the purpose of each artifact (i.e. Why is it on your to-do list? Why is it useful for your team?)
+
 * Be concise, yet precise.         
    For example: "Build the website" is not precise at all, but "Build a static home page and upload it somewhere, so that it is publicly accessible" is much clearer.
-* We will produce design images to present the idea. 
+
+   ​
+
+   We will produce design images to present the idea. (for each page of the page, make a front end design and put elements (data) in it to illustrate how the app works)
 
 
 
