@@ -48,29 +48,5 @@ List/describe the artifacts you will produce in order to present your project id
 * Be concise, yet precise.         
    For example: "Build the website" is not precise at all, but "Build a static home page and upload it somewhere, so that it is publicly accessible" is much clearer.
 
-Some designs images:
-
-Desktop application Tutoring App
-
-![Screenshot 2017-10-13 16.36.05](/Users/tiffany/Dropbox/Screenshots/Screenshot 2017-10-13 16.36.05.png)
-
-![Screenshot 2017-10-13 16.36.05](/Users/tiffany/Dropbox/Screenshots/Screenshot 2017-10-13 16.36.05.png)
-
-![Screenshot 2017-10-13 16.37.17](/Users/tiffany/Dropbox/Screenshots/Screenshot 2017-10-13 16.37.17.png)
-
-![Screenshot 2017-10-13 16.39.23](/Users/tiffany/Dropbox/Screenshots/Screenshot 2017-10-13 16.39.23.png)
-
-![Screenshot 2017-10-13 16.39.42](/Users/tiffany/Dropbox/Screenshots/Screenshot 2017-10-13 16.39.42.png)
-
-![Screenshot 2017-10-13 16.39.58](/Users/tiffany/Dropbox/Screenshots/Screenshot 2017-10-13 16.39.58.png)
-
-Manage account page:
-
-![Screenshot 2017-10-13 16.40.46](/Users/tiffany/Dropbox/Screenshots/Screenshot 2017-10-13 16.40.46.png)
-
-![Screenshot 2017-10-13 16.40.46](/Users/tiffany/Dropbox/Screenshots/Screenshot 2017-10-13 16.40.46.png)
-
-![Screenshot 2017-10-13 16.41.36](/Users/tiffany/Dropbox/Screenshots/Screenshot 2017-10-13 16.41.36.png)
-
-
+Design images: please look at the pdf called "Iteration 1 design.pdf"
 
