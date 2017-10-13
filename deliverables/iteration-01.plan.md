@@ -17,7 +17,19 @@
 
 Describe the different roles on the team and the responsibilities associated with each role.
 
-Everyone 
+Everyone in the team be coding, making sure that each person's own part is finished upon the deadline, and also supervise other members. For better managing the team, we will be assigning specific roles for the scrum process.
+
+**Team lead (scrum master):** This is the project leader and is responsible for managing the team, obtaining resources for it (communicate with TAs, instructors and coding experts to get suggestions). Team lead will make sure that the entire project is well planned, scheduled, discussion are set up when needed and communicate with each of the members if needed.
+
+**Team member:** Each of us will be team member and will be contributing to the implementations of the project, planning and review of the project, testing the codes and debuggin the codes.
+
+**Product manager:** Will be managing and deciding tasks to be implemented for the iteration and makes sure that the features are implemented. Also responsible for prioritize tasks in the item list and makes decision on any changes of tasks to be done. (e.g, when the project is to hard to be implemented or an iteration has too many features, the product manager will be responsible for quickly decide whether to cut the features or not)
+
+**Domain expert (Android, java):** The domain expert will be responsible for providing technical advice and support to each team member and make suggestions on how the project will be implemented.
+
+**Front end developer:** Will be responsible for the front end design and make UI designs for the app.
+
+**Backend developer:** Will be responsible for database coding, system server connection, interactive features implementations. 
 
 #### Events
 
@@ -25,21 +37,22 @@ We decided to have in person meeting on every Tuesday at GB and Friday or Sunday
 
 #### Artifacts
 
-We will make a list of all features (in point form) that will be implemented for the project. We will evaluate the length for the features and divide the tasks between the members based on the evaluated time needed for the features. We will prioritize tasks that we consider to be fundamental for the functioning of the application, and the most important features such as streaming room functionalities and the ability for searching for available streaming videos. Extra features such as special effects when clicking the app or some fancy functionalities will be considered lastly.
+We will make a list of tasks (in point form) that will be implemented for the project. We will evaluate the length for the features and divide the tasks between the members based on the evaluated time needed for the features. We will prioritize tasks that we consider to be fundamental for the functioning of the application, and the most important features such as streaming room functionalities and the ability for searching for available streaming videos. Extra features such as special effects when clicking the app or some fancy functionalities will be considered lastly.
 
 ## Product
 
 #### Goals and tasks
 
-* Describe your goals for this iteration and the tasks that you will have to complete in order to achieve these goals.
-* Order the items from most to least important.
-* Feel free (but not obligated) to specify some/all tasks as user stories.
-
 **Goals:** 
+
+- Finish researching the problems and refining the idea for the project
+- Make designs if necessary to present the project idea.
+- Research and decide the language that will be used for the implementation (e.g, java, html or C)
 
 **List of tasks:**
 
-
+- Propose an idea for the project.
+- Produce a visual design to the present the idea. 
 
 #### Artifacts
 
@@ -49,6 +62,7 @@ List/describe the artifacts you will produce in order to present your project id
 * Make sure to explain the purpose of each artifact (i.e. Why is it on your to-do list? Why is it useful for your team?)
 * Be concise, yet precise.         
    For example: "Build the website" is not precise at all, but "Build a static home page and upload it somewhere, so that it is publicly accessible" is much clearer.
+* We will produce design images to present the idea. 
 
 
 
