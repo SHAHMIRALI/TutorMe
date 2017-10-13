@@ -58,3 +58,19 @@ Desktop application Tutoring App
 
 ![Screenshot 2017-10-13 16.37.17](/Users/tiffany/Dropbox/Screenshots/Screenshot 2017-10-13 16.37.17.png)
 
+![Screenshot 2017-10-13 16.39.23](/Users/tiffany/Dropbox/Screenshots/Screenshot 2017-10-13 16.39.23.png)
+
+![Screenshot 2017-10-13 16.39.42](/Users/tiffany/Dropbox/Screenshots/Screenshot 2017-10-13 16.39.42.png)
+
+![Screenshot 2017-10-13 16.39.58](/Users/tiffany/Dropbox/Screenshots/Screenshot 2017-10-13 16.39.58.png)
+
+Manage account page:
+
+![Screenshot 2017-10-13 16.40.46](/Users/tiffany/Dropbox/Screenshots/Screenshot 2017-10-13 16.40.46.png)
+
+![Screenshot 2017-10-13 16.40.46](/Users/tiffany/Dropbox/Screenshots/Screenshot 2017-10-13 16.40.46.png)
+
+![Screenshot 2017-10-13 16.41.36](/Users/tiffany/Dropbox/Screenshots/Screenshot 2017-10-13 16.41.36.png)
+
+
+
