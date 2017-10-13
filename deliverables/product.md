@@ -5,39 +5,24 @@
 
 #### Q1: What are you planning to build?
 
-YOUR ANSWER GOES HERE ...
-
- * Short (1 - 2 min' read)
- * Start with a single sentence, high-level description of the product.
- * Be clear - Describe the problem you are solving in simple terms.
- * Be concrete. For example:
-    * What are you planning to build? Is it a website, mobile app,
-   browser extension, command-line app, etc.?      
-    * When describing the problem/need, give concrete examples of common use cases.
- * Focus on *what* your product does, and avoid discussing *how* you're going to implement it.      
-   For example: This is not the time or the place to talk about which programming language and/or framework you are planning to use.
- * **Feel free (and very much encouraged) to include useful diagrams, mock-ups and/or links**.
+We will build a desktop application for tutoring. The main purpose of the application is to learn the materials through online video tutoring. Users can record anything within their expertise and upload on the application platform (e.g., explaining an entire UofT course material, like problem sets, tutorials, past midterms.) Also, users can create a live stream room that others can join. This tool allows instructors and TAs to explain the materials outside the course. Students with fair knowledge can also create the rooms and explain hard materials or make reviews to help other students. This application aims to provide students a more customized aid (materials specific to the course students are taking), an instant help (online rooms available), and a more powerful resources that students can rely on outside the school.
 
 
 #### Q2: Who are your target users?
 
-YOUR ANSWER GOES HERE ...
-
- * Short (1 - 2 min' read max)
- * Be specific (e.g. )
- * Feel free (but not obligated) to use personas.        
-   You can create your personas as part of this Markdown file, or add a link to an external site (for example, [Xtensio](https://xtensio.com/user-persona/)).
+Our target users are students who wish to get extra help outside the class. After a little research, we found out that there are a lot of students who are searching for help outside the class, because of hard materials. Our main target users will be those who don’t understand materials, students who were unable to attend a course because they were sick, students who want to review for midterms, students who want to find TAs and instructors to explain tutorial problems, those who have questions for assignments, those who want to study with other classmates. Currently, at UofT alone, there are about 6-7 outside help educational organizations that each recruits about 100 students for each midterm review session. We’d like to offer those students a free platform that can help them to succeed in their courses with extra help. 
 
 #### Q3: Why would your users choose your product? What are they using today to solve their problem/need?
 
-YOUR ANSWER GOES HERE ...
-
- * Short (1 - 2 min' read max)
- * We want you to "connect the dots" for us - Why does your product (as described in your answer to Q1) fits the needs of your users (as described in your answer to Q2)?
- * Explain the benefits of your product explicitly & clearly. For example:
-    * Save users time (how much?)
-    * Allow users to discover new information (which information? And, why couldn't they discover it before?)
-    * Provide users with more accurate and/or informative data (what kind of data? Why is it useful to them?)
+Major education problems:
+-         Bad quality lectures: A lot of university professors have high degrees but they don’t know how to teach and give lectures. This results in bad understanding of the materials. (Having other students (or education organizations) giving out lectures for the same course can allow students to understand materials better)
+-          School help assistance resources is limited (very limited office hours, 1 professor and 1 TA for 100 students) As a result, even if students are motivated to get good grades, they don’t get enough resources to help them out when they need, especially before midterm and assignment due date. (Through streaming, instructors and TAs can open a live stream room to answer any questions, or add extra office hours through online streaming, and anyone who wishes to asks questions only needs to log in to the app and doesn’t need to go to the office, which is more time flexible and easier)
+-          Sometimes, students are shy to ask a question in the classroom even if they don’t understand the materials, which is one of the major problems for poor academic standing. (Through video tutoring and behind the screen, people will be more comfortable asking questions or chat in the room)
+-          A lot of students go on YouTube to get help. However, YouTube videos are not specific to the courses. A lot of notations and ways to solve the problems are different from the course. Also, students have to search one subject at a time, which is not efficient. (Through the video tutoring platform, students can enroll in the specific course and get all lectures for all materials for the course they need. Since the video uploader are likely to be students previously taken the courses, the notations and ways to solve the problems are consistent with the course)
+-          Study group & Projects and assignments meetings: Study group resources are not efficient, since students have to set up a meeting time and travel long distance which sometimes take lot of time. (through online streaming, they can economize the meeting time and chat in the room) Each user is able to share the screen.
+-          Piazza problems: A lot of questions can be answered in few seconds with clearer explanations. (better than writing it in words)
+-          Tutor websites problems: It’s very hard to find a tutor that can help the specific course we are taking. For example, for csc263, someone who knows the concepts will have read all the lecture slides to get an idea how the concepts are taught (most of the times, they can’t teach those courses. Another problem in CS is that a lot of programming tutors are programmers, who quit school long time ago. The materials they teach aren’t fit for school, and thus many students think that the money and time is wasted.  It’s also difficult to set up the meeting time. Finally, programmers ask for high tutoring fees because they set the fees similar to their job salary, which isn’t a reasonable price for a lot of students. Some students who wish to get help might be scared away by the price and thus can’t get help. (Through online tutoring, tutors who took the class can explain via a stream whenever you have a question without reading ahead all the slides and they can help give you strategies to solve the problems for the specific course. This allows to increase the quality of tutoring session.)
+- Outside educational organizations such as PREP101 with high cost. Students who have fair knowledge can help other students without charging. 
 
 
 ----
