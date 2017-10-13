@@ -37,7 +37,17 @@ We decided to have in person meeting on every Tuesday at GB and Friday or Sunday
 
 #### Artifacts
 
-We will make a list of tasks (in point form) that will be implemented for the project. We will evaluate the length for the features and divide the tasks between the members based on the evaluated time needed for the features. We will prioritize tasks that we consider to be fundamental for the functioning of the application, and the most important features such as streaming room functionalities and the ability for searching for available streaming videos. Extra features such as special effects when clicking the app or some fancy functionalities will be considered lastly.
+How do you keep track of what needs to get done?
+
+We will make a list of all tasks (in point form) that will be implemented for the project. Cross out the task when it is done.
+
+How do tasks get assigned to team members? 
+
+We will evaluate the length for the features and divide the tasks between the members based on the evaluated time needed for the features.
+
+How do you prioritize tasks?
+
+We will prioritize tasks that we consider to be fundamental for the functioning of the application, and the most important features such as streaming room functionalities and the ability for searching for available streaming videos. Extra features such as special effects when clicking the app or some fancy functionalities will be considered lastly.
 
 ## Product
 
@@ -45,14 +55,10 @@ We will make a list of tasks (in point form) that will be implemented for the pr
 
 **Goals:** 
 
-- Finish researching the problems and refining the idea for the project
-- Make designs if necessary to present the project idea.
-- Research and decide the language that will be used for the implementation (e.g, java, html or C)
-
-**List of tasks:**
-
 - Propose an idea for the project.
-- Produce a visual design to the present the idea. 
+- Finish researching the problems and refining the idea for the project
+- Make visual designs if necessary to present the project idea.
+- Research and decide the language that will be used for the implementation (e.g, java, html or C)
 
 #### Artifacts
 
