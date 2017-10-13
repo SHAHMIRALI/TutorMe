@@ -6,8 +6,8 @@
 
 ## Iteration XX
 
- * Start date: FILL IN THE DATE WHEN YOU HAD YOUR FIRST TEAM PLANNING MEETING
- * End date: FILL IN THE DATE WHEN YOU ARE PLANNING TO HAVE YOUR REVIEW MEETING
+* Start date: October 10, 2017
+* End date: October 12, 2017
 
 ## Process
 
@@ -19,36 +19,34 @@ Describe the different roles on the team and the responsibilities associated wit
 
 #### Events
 
-Describe meetings (and other events) you are planning to have:
-
- * When and where? In-person or online?
- * What's the purpose of each meeting?
- * Other events could be coding sessions, code reviews, quick weekly sync' meeting online, etc.
+We decided to have in person meeting on every Tuesday at GB and Friday or Sunday afternoon on Skype or in Person. We will have planning meeting on Tuesday, and the purpose of this meeting is to decide what should be done for next meeting and how the task will be divided. The purpose of Friday or Sunday meeting is to mainly combine what each person did since the last meeting and discuss about any change that should be made, and also make sure that the progress speed will be able to meet the deadlines. We might schedule more meetings for codings and debugging (e.g., how a feature should be implemented and what API should be used)
 
 #### Artifacts
 
-List/describe the artifacts you will produce in order to organize your team.       
-
- * Artifacts can be To-do lists, Task boards, schedule(s), etc.
- * We want to understand:
-   * How do you keep track of what needs to get done?
-   * How do you prioritize tasks?
-   * How do tasks get assigned to team members?
-
+We will make a list of all features (in point form) that will be implemented for the project. We will evaluate the length for the features and divide the tasks between the members based on the evaluated time needed for the features. We will prioritize tasks that we consider to be fundamental for the functioning of the application, and the most important features such as streaming room functionalities and the ability for searching for available streaming videos. Extra features such as special effects when clicking the app or some fancy functionalities will be considered lastly.
 
 ## Product
 
 #### Goals and tasks
 
- * Describe your goals for this iteration and the tasks that you will have to complete in order to achieve these goals.
- * Order the items from most to least important.
- * Feel free (but not obligated) to specify some/all tasks as user stories.
+* Describe your goals for this iteration and the tasks that you will have to complete in order to achieve these goals.
+* Order the items from most to least important.
+* Feel free (but not obligated) to specify some/all tasks as user stories.
+
+For this iteration, we will be designing and building front end of our app and also a basic working connection that allows streamer and viewer to chat.
+
+List of tasks:
+
+
 
 #### Artifacts
 
 List/describe the artifacts you will produce in order to present your project idea.
 
- * Artifacts can be text, code, images, videos, interactive mock-ups and/or any other useful artifact you can think of.
- * Make sure to explain the purpose of each artifact (i.e. Why is it on your to-do list? Why is it useful for your team?)
- * Be concise, yet precise.         
+* Artifacts can be text, code, images, videos, interactive mock-ups and/or any other useful artifact you can think of.
+* Make sure to explain the purpose of each artifact (i.e. Why is it on your to-do list? Why is it useful for your team?)
+* Be concise, yet precise.         
    For example: "Build the website" is not precise at all, but "Build a static home page and upload it somewhere, so that it is publicly accessible" is much clearer.
+
+Design images: please look at the pdf called "Iteration 1 design.pdf"
+
