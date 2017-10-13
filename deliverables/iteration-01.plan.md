@@ -17,6 +17,8 @@
 
 Describe the different roles on the team and the responsibilities associated with each role.
 
+Everyone 
+
 #### Events
 
 We decided to have in person meeting on every Tuesday at GB and Friday or Sunday afternoon on Skype or in Person. We will have planning meeting on Tuesday, and the purpose of this meeting is to decide what should be done for next meeting and how the task will be divided. The purpose of Friday or Sunday meeting is to mainly combine what each person did since the last meeting and discuss about any change that should be made, and also make sure that the progress speed will be able to meet the deadlines. We might schedule more meetings for codings and debugging (e.g., how a feature should be implemented and what API should be used)
@@ -33,7 +35,7 @@ We will make a list of all features (in point form) that will be implemented for
 * Order the items from most to least important.
 * Feel free (but not obligated) to specify some/all tasks as user stories.
 
-**Goals:** For this iteration, we will be designing and building front end of our app and also a basic working connection that allows streamer and viewer to chat. 
+**Goals:** 
 
 **List of tasks:**
 
@@ -48,5 +50,5 @@ List/describe the artifacts you will produce in order to present your project id
 * Be concise, yet precise.         
    For example: "Build the website" is not precise at all, but "Build a static home page and upload it somewhere, so that it is publicly accessible" is much clearer.
 
-Design images: please look at the pdf called "Iteration 1 design.pdf"
+
 
