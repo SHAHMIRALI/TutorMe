@@ -21,7 +21,7 @@ Everyone in the team be coding, making sure that each person's own part is finis
 
 **Team lead (scrum master):** This is the project leader and is responsible for managing the team, obtaining resources for it (communicate with TAs, instructors and coding experts to get suggestions). Team lead will make sure that the entire project is well planned, scheduled, discussion are set up when needed and communicate with each of the members if needed.
 
-**Team member:** Each of us will be team member and will be contributing to the implementations of the project, planning and review of the project, testing the codes and debuggin the codes.
+**Team member:** Each of us will be team member and will be contributing to the implementations of the project, planning and review of the project, testing the codes and debugging the codes.
 
 **Product manager:** Will be managing and deciding tasks to be implemented for the iteration and makes sure that the features are implemented. Also responsible for prioritize tasks in the item list and makes decision on any changes of tasks to be done. (e.g, when the project is to hard to be implemented or an iteration has too many features, the product manager will be responsible for quickly decide whether to cut the features or not)
 
@@ -68,7 +68,7 @@ List/describe the artifacts you will produce in order to present your project id
 
 * Make sure to explain the purpose of each artifact (i.e. Why is it on your to-do list? Why is it useful for your team?)
 
-* Be concise, yet precise.         
+* Be concise, yet precise. 
    For example: "Build the website" is not precise at all, but "Build a static home page and upload it somewhere, so that it is publicly accessible" is much clearer.
 
    ​
