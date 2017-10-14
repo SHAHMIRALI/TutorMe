@@ -73,7 +73,7 @@ List/describe the artifacts you will produce in order to present your project id
 
    ​
 
-   We will produce design images to present the idea. (for each page of the page, make a front end design and put elements (data) in it to illustrate how the app works)
+   We will produce design images to present the idea. (for each page of the page, make a front end design and put elements (data) in it to illustrate how the app works). This is on our to-do list because it's simple yet easy to view what we have come up with so far. For example, using images of the front end (with elements) instead of actual code, we will be able to clearly display key parts (such as button functionality and UI design). 
 
 
 
