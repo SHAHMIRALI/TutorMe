@@ -47,6 +47,10 @@ List process-related (i.e. team organization) decisions that, in retrospect, wer
  * From most to least important.
  * Refer/link to artifact(s) that show that a goal/task was met/completed.
  * If a goal/task was not part of the original iteration plan, please mention it.
+ - Propose an idea for the project: Our idea is to make an on demand video tutoring service
+ - Make visual designs if necessary to present the project idea: We have visuals on how our login screen and video chatroom will look like in Iteration 1 design .pdf.
+ - Research and decide the language that we will use: We are using Java instead of Android since we realised implementing video streaming service is easier here.
+- Finish researching the problems and refining the idea for the project: We came up with a design for our chatroom joining screen. It will be an overhead view of a classroom with red and green seats representing taken or empty seats respectively. To join a chatroom you must click on a green seat.
 
 #### Goals and/or tasks that were planned but not met/completed:
 
@@ -63,3 +67,5 @@ Going into the next iteration, our main insights are:
  * High-level concepts that should guide your work for the next iteration.
  * These concepts should help you decide on where to focus your efforts.
  * Can be related to product and/or process.
+ - Chatroom: We are planning to make it real-time. In order to accomplish this task easily, we can use google firebase (real-time database).
+ - Pre-Chatroom interface: We will make a list of some sort that keeps track of all available chatrooms (empty or full), and will add distinctions to chatrooms that are created by instructors and students. We will also add a capacity to each chatroom.
