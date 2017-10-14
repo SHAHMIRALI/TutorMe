@@ -19,26 +19,31 @@
 List process-related (i.e. team organization) decisions that, in retrospect, turned out to be successful.
 
 
-* 2 - 4 decisions.
-* Ordered from most to least important.
-* Explain why (i.e. give a supporting argument) you consider a decision to be successful.
-* Feel free to refer/link to process artifact(s).
+1.	Moving from android development to java development
+•	Not everyone in our group was familiar with android development. By transition our product from and android application to a java desktop application we eliminated the need to do extra research on android development.d
+
+2.	Having small 15-20 minute meetings
+•	15-20 minute meeting made sure every member brought up critical points/developments during their speaking time. With a group of 6 students working on a large project, it is critical that everyone uses their speaking time during meetings efficiently.
+
+3.	Using tutorial time as a meeting
+•	Using tutorial time as a meeting was valuable because it’s a time slot where we’re guaranteed to have every group member available. With a group of 6 students, it’s tough finding a time slot where everyone is available so using tutorials for meetings was very helpful
 
 #### Decisions that did not turn out as well as we hoped
 
 List process-related (i.e. team organization) decisions that, in retrospect, were not as successful as you thought they would be.
 
-* 2 - 4 decisions.
-* Ordered from most to least important.
-* Feel free to refer/link to process artifact(s).
+1.	Having our main form of communication be through Facebook chat.
+•	We’ve learned that using Facebook chat isn’t the best way to communicate with each other because we aren’t checking the chat on a consistent basis. Also, hearing someone talk versus reading someone’s message is a better way to communicate between one another.
+2.	Having meetings every day.
+•	We’ve learned that having meeting after every day leads to redundancy. Most things that were brought up the day before were brought up again.
 
 
 #### Planned changes
 
-List any process-related changes you are planning to make (if there are any)
-
-* Ordered from most to least important.
-* Explain why you are making a change.
+1.	Using Skype as a main form of communication versus Facebook chat
+•	Using Skype voice chat versus Facebook text chat allows us to keep track of who’s present. Communicating ideas or developments is also more efficient with voice chat rather than text chat.
+2.	Having meetings 2 to 3 times a week versus everyday
+•	This allows members 2 to 3 days to work on developments rather than 1 day. Gives members the ability to make major developments versus minor ones.
 
 
 ## Product - Review
