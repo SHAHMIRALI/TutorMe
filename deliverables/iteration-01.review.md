@@ -54,11 +54,19 @@ List process-related (i.e. team organization) decisions that, in retrospect, wer
 * Refer/link to artifact(s) that show that a goal/task was met/completed.
 * If a goal/task was not part of the original iteration plan, please mention it.
 
+-The idea for creating a Java based peer-to-peer tutoring application has been presented to all team members, and the high level design and implementation of the application has been agreed upon as well.
+
+-We have agreed upon the use of Java for the design of this application after consulting with all team members.
+
+-We have created diagrams to illustrate our idea on how the final product should look like to the end user, as well as highlighting specific aspects of the application that will be major components to our work within upcoming sprints.
+
 #### Goals and/or tasks that were planned but not met/completed:
 
 * From most to least important.
 * For each goal/task, explain why it was not met/completed.      
    e.g. Did you change your mind, or did you just not get to it yet?
+   
+-Researching and refining our design is partially completed as of now. This is something that we have considered as a constant factor to our design process. Within the scope of this project, we have completed informal research on potential competitor software to see what we can do differently to create value within the market. It is possible that we can do further research upon our target user group and refine our design as needed. 
 
 ## Meeting Highlights
 
@@ -69,3 +77,4 @@ Going into the next iteration, our main insights are:
 * High-level concepts that should guide your work for the next iteration.
 * These concepts should help you decide on where to focus your efforts.
 * Can be related to product and/or process.
+
