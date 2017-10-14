@@ -78,3 +78,5 @@ Going into the next iteration, our main insights are:
 * These concepts should help you decide on where to focus your efforts.
 * Can be related to product and/or process.
 
+ - Chatroom: We are planning to make it real-time. In order to accomplish this task easily, we can use google firebase (real-time database).
+ - Pre-Chatroom interface: We will make a list of some sort that keeps track of all available chatrooms (empty or full), and will add distinctions to chatrooms that are created by instructors and students. We will also add a capacity to each chatroom.
