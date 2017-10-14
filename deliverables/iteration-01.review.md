@@ -56,7 +56,7 @@ List process-related (i.e. team organization) decisions that, in retrospect, wer
 
 -The idea for creating a Java based peer-to-peer tutoring application has been presented to all team members, and the high level design and implementation of the application has been agreed upon as well.
 
--We have agreed upon the use of Java for the design of this application after consulting with all team members.
+-We have agreed upon the use of Java for the design of this application after consulting with all team members after taking into account both the user experience as well as the difficulty of implementing certain features. 
 
 -We have created diagrams to illustrate our idea on how the final product should look like to the end user, as well as highlighting specific aspects of the application that will be major components to our work within upcoming sprints.
 
