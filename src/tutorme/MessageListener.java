@@ -7,7 +7,7 @@ import java.net.Socket;
 public class MessageListener extends Thread {
     ServerSocket server;
     int port = 8888;
-    
+
     public MessageListener(int port) throws IOException {
         this.port = port;
         server = new ServerSocket(port);

@@ -16,6 +16,7 @@ public class shahmirsChatroom extends Application implements WritableGUI {
     TextField chatText;
     Button sendButton;
 
+
     public static void main(String[] args) {
         launch(args);
     }
@@ -28,6 +29,6 @@ public class shahmirsChatroom extends Application implements WritableGUI {
 
     @Override
     public void write(String s) {
-        
+
     }
 }
